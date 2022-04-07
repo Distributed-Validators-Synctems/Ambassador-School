@@ -1,6 +1,6 @@
 # Ambassador-School
 
-[English] | [Русский]() <br />
+[English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
 - Do you want to become an Ambassador, but don't know how to start?
 - Are you looking for a mentor who will help to become an Ambassador?
