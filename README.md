@@ -6,7 +6,7 @@
 - Are you looking for a mentor who will help to become an Ambassador?
 - Want to be a part of community?
 
-[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://t.me/molotcrypto) launch the **Ambassador School**, which will help you to get all the important knowledg to become an Ambassador of any project! <br />
+[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://t.me/molotcrypto) launch the **Ambassador School**, which will help you to get all the important knowledge to become an Ambassador of any project! <br />
 
 ## Process for participation in the Validator School
 
@@ -42,4 +42,9 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 
 ### Full course is include
 
-Information will be added soon...
+1. Introductory lecture (the concept of an ambassador, a brief history of the ambassadorship programs, ambassador programs today, ambassador skills)
+2. Seminar on the specialization of an ambassador (what ambassadors usually meet, how to choose a specialization, first steps as an ambassador, examples of programs)
+3. Lecture on the outer shell of an ambassador (how to hook, what do we do, how we communicate)
+4. Seminar: which ambassador program to choose? (dependence of experience and level of the chosen program, how to determine the level of the project)
+5. Master class on twitter, medium, discord
+6. Seminar: building social connections (working with the community, your community, choosing a crypto community)
