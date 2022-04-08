@@ -6,7 +6,7 @@
 - Are you looking for a mentor who will help to become an Ambassador?
 - Want to be a part of community?
 
-[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://github.com/Unlimitedmolot/about-me/blob/main/unlimitedmolot.md) launch the **Ambassador School**, which will help you to get all the important knowledg to become an Ambassador of any project! <br />
+[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://t.me/molotcrypto) launch the **Ambassador School**, which will help you to get all the important knowledg to become an Ambassador of any project! <br />
 
 ## Process for participation in the Validator School
 
