@@ -18,7 +18,7 @@
 - [In english]
 - [In russian]()
 
-3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**чат**](https://t.me/cryptomolotchat)
+3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**chat**](https://t.me/cryptomolotchat)
 
 
 4. After reviewing your application, you need to participate in The Firs Meet (online meet), to clearify all questions. <br />
