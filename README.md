@@ -1,5 +1,5 @@
 # Ambassador-School
-
+<a href="https://ibb.co/QbWnVX7"><img src="https://i.ibb.co/6nKbSNc/IMG-0307.png" alt="IMG-0307" border="0"></a>
 [English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
 - Do you want to become an Ambassador, but don't know how to start?
@@ -18,7 +18,10 @@
 - [In english]
 - [In russian]()
 
-3. After reviewing your application, you need to participate in The Firs Meet (online meet), to clearify all questions. <br />
+3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**чат**](https://t.me/cryptomolotchat)
+
+
+4. After reviewing your application, you need to participate in The Firs Meet (online meet), to clearify all questions. <br />
 After the First Meet, if you are agree with the rules of educational proccess, your application will be approved. <br />
 
 ## If your application is approved
