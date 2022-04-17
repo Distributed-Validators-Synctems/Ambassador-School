@@ -1,7 +1,6 @@
 [English] | [Русский]() <br />
 <a href="https://ibb.co/QbWnVX7"><img src="https://i.ibb.co/QbWnVX7/IMG-0307.png" alt="IMG-0307" border="0"></a>
 # Школа Амбассадоров
-[![AmbassadorSchool](https://ibb.co/QbWnVX7)]
 - Вы хотите стать Амбассадором, но не знаете, с чего начать?
 - Ищете наставника, который объяснит с чего начать?
 - Хотите стать частью Сообщества?
