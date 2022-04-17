@@ -11,12 +11,12 @@
 
 1. Заполните заявку на участие в **Школе Амбассадоров**:
 - [На русском](https://docs.google.com/forms/d/e/1FAIpQLSdBR6Oi2R8NgIEQCxg-thtz_A5cQRWk7aYPLorWxv5yxKt5VA/viewform?vc=0&c=0&w=1&flr=0)
-- [На английском]TBA
+- [На английском] - в близжайшем будущем <br />
 
 
 2. Присоединяйтесь к Telegram-группе **Школы Амбассадоров** и напишите туда, что Вы заполнили заявку:
 - [Русскоговорящая группа](https://t.me/+tO833ziYx5MwNDcy)
-- [Англоговорящая группа]
+- [Англоговорящая группа] - в близжайшем будущем <br />
 
 3. Вступите в Telegram-группу [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) и в наш [**чат**](https://t.me/cryptomolotchat)
 
