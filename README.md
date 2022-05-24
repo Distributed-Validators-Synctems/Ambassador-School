@@ -45,9 +45,10 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 
 ### Full course is include
 
-1. Introductory lecture (the concept of an ambassador, a brief history of the ambassadorship programs, ambassador programs today, ambassador skills)
-2. Seminar on the specialization of an ambassador (what ambassadors usually meet, how to choose a specialization, first steps as an ambassador, examples of programs)
-3. Lecture on the outer shell of an ambassador (how to hook, what do we do, how we communicate)
-4. Seminar: which ambassador program to choose? (dependence of experience and level of the chosen program, how to determine the level of the project)
-5. Master class on twitter, medium, discord
-6. Seminar: building social connections (working with the community, your community, choosing a crypto community)
+1. Introductory lecture (the concept of an ambassador, a brief history of ambassadorship, ambassador programs today, skills of an ambassador, filling out forms).
+2. Seminar on the ambassador's specializations (what an ambassador usually does, how to choose a specialization, the first steps as an ambassador, examples of programs).
+3. Lecture on the ambassador's outer shell (how to hook, what we do, how we communicate, personal brand, building social connections).
+4. Seminar: Twitter + writing articles.
+5. Seminar: ambassador's work schedule, delegation.
+6. Workshop on Figma (graphics).
+7. Namecheap Workshop (we make our own business card website).
