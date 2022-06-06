@@ -8,7 +8,7 @@
 
 [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://t.me/molotcrypto) launch the **Ambassador School**, which will help you to get all the important knowledge to become an Ambassador of any project! <br />
 
-[***OUR WEBSITE***](https://ambassadors.school)
+[**OUR WEBSITE**](https://ambassadors.school)
 
 ## Process for participation in the Validator School
 
