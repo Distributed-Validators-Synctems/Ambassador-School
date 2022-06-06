@@ -8,6 +8,8 @@
 
 [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://t.me/molotcrypto) launch the **Ambassador School**, which will help you to get all the important knowledge to become an Ambassador of any project! <br />
 
+[***OUR WEBSITE***](https://ambassadors.school)
+
 ## Process for participation in the Validator School
 
 1. Fill the application for participation in the **Ambassador School**:
@@ -52,3 +54,4 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 5. Seminar: ambassador's work schedule, delegation.
 6. Workshop on Figma (graphics).
 7. Namecheap Workshop (we make our own business card website).
+8. Final seminar: exam discussion.
