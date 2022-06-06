@@ -7,7 +7,7 @@
 
 [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) и [КриптоМолот](https://t.me/molotcrypto) открывают **Школу Амбассадоров**, которая поможет вам приобрести необходимые знания и навыки. <br />
 
-[***НАШ САЙТ***](https://ambassadors.school)
+[**НАШ САЙТ**](https://ambassadors.school)
 
 
 ## Процесс принятия участие в Школе Амбассадоров
