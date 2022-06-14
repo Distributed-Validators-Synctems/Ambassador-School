@@ -1,4 +1,4 @@
-# Ambassador-School
+# Ambassadors School
 <a href="https://ibb.co/QbWnVX7"><img src="https://i.ibb.co/6nKbSNc/IMG-0307.png" alt="IMG-0307" border="0"></a>
 [English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
