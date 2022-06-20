@@ -10,13 +10,13 @@
 
 [**OUR WEBSITE**](https://ambassadors.school)
 
-## Process for participation in the Validator School
+## Process for participation in the Ambassadors School
 
-1. Fill the application for participation in the **Ambassador School**:
+1. Fill the application for participation in the **Ambassadors School**:
 - [In english]
 - [In russian]()
 
-2. Join Telegram group of the **Ambassador School**, and write there that you have completed the application:
+2. Join Telegram group of the **Ambassadors School**, and write there that you have completed the application:
 - [In english]
 - [In russian]()
 
