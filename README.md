@@ -13,12 +13,12 @@
 ## Process for participation in the Ambassadors School
 
 1. Fill the application for participation in the **Ambassadors School**:
-- [In english]
-- [In russian]()
+- [In english] SOON
+- [In russian](https://docs.google.com/forms/d/12z_TiSX0Sf34crmKBH2d8VYGmqmHe8LUUHFVn9bGroI/edit#response=ACYDBNimsnCvhDp51iItC8DBE8KiPfvuxI1H95xUj5J_j_WMpIG5CDvE46uOGbEA1xDxDmA)
 
 2. Join Telegram group of the **Ambassadors School**, and write there that you have completed the application:
-- [In english]
-- [In russian]()
+- [In english] SOON
+- [In russian](https://t.me/+tO833ziYx5MwNDcy)
 
 3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**chat**](https://t.me/cryptomolotchat)
 
