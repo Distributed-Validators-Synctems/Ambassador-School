@@ -13,7 +13,7 @@
 ## Процесс принятия участие в Школе Амбассадоров
 
 1. Заполните заявку на участие в **Школе Амбассадоров**:
-- [На русском (https://docs.google.com/forms/d/12z_TiSX0Sf34crmKBH2d8VYGmqmHe8LUUHFVn9bGroI/edit#response=ACYDBNimsnCvhDp51iItC8DBE8KiPfvuxI1H95xUj5J_j_WMpIG5CDvE46uOGbEA1xDxDmA)
+- [На русском](https://docs.google.com/forms/d/12z_TiSX0Sf34crmKBH2d8VYGmqmHe8LUUHFVn9bGroI/edit#response=ACYDBNimsnCvhDp51iItC8DBE8KiPfvuxI1H95xUj5J_j_WMpIG5CDvE46uOGbEA1xDxDmA)
 - [На английском] - в ближайшем будущем <br />
 
 
