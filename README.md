@@ -45,7 +45,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 - Education consists of Theoretical and Practical lessons
 - Education begins with the Humanitarian part, in order to give a complete picture of "how to be an Ambassador"
 
-### Full course is include
+### Full course includes
 
 1. Introductory lecture (the concept of an ambassador, a brief history of ambassadorship, ambassador programs today, skills of an ambassador, filling out forms).
 2. Seminar on the ambassador's specializations (what an ambassador usually does, how to choose a specialization, the first steps as an ambassador, examples of programs).
