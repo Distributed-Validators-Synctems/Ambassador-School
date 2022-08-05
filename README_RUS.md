@@ -12,7 +12,7 @@
 
 1. Заполните заявку на участие в **Школе Амбассадоров**:
 - [На русском](https://docs.google.com/forms/d/e/1FAIpQLSdLh-DxuV2o2YDgDGww6Ohy2ww_ctZ7J3Zfy-wyO9U-51Jufw/viewform?vc=0&c=0&w=1&flr=0)
-- [На английском] (https://docs.google.com/forms/d/e/1FAIpQLSfWw93nFJyfyU21m-8mJanYpdi4rHZGv_g0u5_AFBFZIRIr0g/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
+- [На английском](https://docs.google.com/forms/d/e/1FAIpQLSfWw93nFJyfyU21m-8mJanYpdi4rHZGv_g0u5_AFBFZIRIr0g/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 
 
 2. Присоединяйтесь к Telegram-группе **Школы Амбассадоров** и напишите туда, что Вы заполнили заявку:
