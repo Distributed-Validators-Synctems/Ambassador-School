@@ -13,11 +13,11 @@
 ## Process for participation in the Ambassadors School
 
 1. Fill the application for participation in the **Ambassadors School**:
-- [In english] SOON
-- [In russian](https://docs.google.com/forms/d/12z_TiSX0Sf34crmKBH2d8VYGmqmHe8LUUHFVn9bGroI/edit#response=ACYDBNimsnCvhDp51iItC8DBE8KiPfvuxI1H95xUj5J_j_WMpIG5CDvE46uOGbEA1xDxDmA)
+- [In english](https://docs.google.com/forms/d/e/1FAIpQLSfWw93nFJyfyU21m-8mJanYpdi4rHZGv_g0u5_AFBFZIRIr0g/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
+- [In russian](https://docs.google.com/forms/d/e/1FAIpQLSdLh-DxuV2o2YDgDGww6Ohy2ww_ctZ7J3Zfy-wyO9U-51Jufw/viewform?vc=0&c=0&w=1&flr=0)
 
 2. Join Telegram group of the **Ambassadors School**, and write there that you have completed the application:
-- [In english] SOON
+- [In english](https://t.me/+_9JHyvuV5Ao4YTMy)
 - [In russian](https://t.me/+tO833ziYx5MwNDcy)
 
 3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**chat**](https://t.me/cryptomolotchat)
@@ -57,3 +57,6 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 8. Final seminar: exam discussion.
 9. Extra: Discord management
 10. Extra: Community management
+
+
+[**НАШ САЙТ**](https://ambassadors.school)
