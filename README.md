@@ -59,4 +59,4 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 10. Extra: Community management
 
 
-[**НАШ САЙТ**](https://ambassadors.school)
+[**Website**](https://ambassadors.school)
