@@ -13,14 +13,13 @@
 ## Процесс принятия участие в Школе Амбассадоров
 
 1. Заполните заявку на участие в **Школе Амбассадоров**:
-- [На русском](https://docs.google.com/forms/d/12z_TiSX0Sf34crmKBH2d8VYGmqmHe8LUUHFVn9bGroI/edit#response=ACYDBNimsnCvhDp51iItC8DBE8KiPfvuxI1H95xUj5J_j_WMpIG5CDvE46uOGbEA1xDxDmA)
-- [На английском] - в ближайшем будущем <br />
+- [На русском](https://docs.google.com/forms/d/e/1FAIpQLSdLh-DxuV2o2YDgDGww6Ohy2ww_ctZ7J3Zfy-wyO9U-51Jufw/viewform?vc=0&c=0&w=1&flr=0)
+- [На английском] (https://docs.google.com/forms/d/e/1FAIpQLSfWw93nFJyfyU21m-8mJanYpdi4rHZGv_g0u5_AFBFZIRIr0g/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 
 
 2. Присоединяйтесь к Telegram-группе **Школы Амбассадоров** и напишите туда, что Вы заполнили заявку:
 - [Русскоговорящая группа](https://t.me/+tO833ziYx5MwNDcy)
-- [Англоговорящая группа] - в ближайшем будущем <br />
-
+- [Англоговорящая группа] (https://t.me/+_9JHyvuV5Ao4YTMy) 
 3. Вступите в Telegram-группу [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) и в наш [**чат**](https://t.me/cryptomolotchat)
 
 4. После ознакомления с вашей заявкой будет назначена Ознакомительная Встреча, на которой вы сможете задать любые вопросы. <br />
