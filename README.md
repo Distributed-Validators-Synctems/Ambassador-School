@@ -18,7 +18,7 @@
 
 2. Join Telegram group of the **Ambassadors School**, and write there that you have completed the application:
 - [In english](https://t.me/+_9JHyvuV5Ao4YTMy)
-- [In russian](https://t.me/+tO833ziYx5MwNDcy)
+- [In russian](https://t.me/+CJ-trUdtLQ5iNDli)
 
 3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**chat**](https://t.me/cryptomolotchat)
 
