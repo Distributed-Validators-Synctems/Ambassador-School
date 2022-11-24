@@ -57,6 +57,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 8. Final seminar: exam discussion.
 9. Extra: Discord management
 10. Extra: Community management
+11. Extra: Meme workshop
 
 
 [**Website**](https://ambassadors.school)
