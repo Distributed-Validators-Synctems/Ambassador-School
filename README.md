@@ -1,5 +1,5 @@
 # Ambassadors School
-<a href="https://ibb.co/Xkkywbs"><img src="https://i.ibb.co/mFFvxGq/Futuristic-circle-for-logo-mockup.png" alt="Futuristic-circle-for-logo-mockup" border="0"></a>
+<a href="https://ibb.co/NyvSsPd"><img src="https://i.ibb.co/KrPwXkp/AS-logo-03.png" alt="AS-logo-03" border="0"></a>
 
 [English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
