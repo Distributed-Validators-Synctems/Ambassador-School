@@ -1,5 +1,5 @@
 # Ambassadors School
-<a href="https://ibb.co/QbWnVX7"><img src="https://i.ibb.co/6nKbSNc/IMG-0307.png" alt="IMG-0307" border="0"></a>
+<a href="https://ibb.co/Xkkywbs"><img src="https://i.ibb.co/mFFvxGq/Futuristic-circle-for-logo-mockup.png" alt="Futuristic-circle-for-logo-mockup" border="0"></a>
 [English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
 - Do you want to become an Ambassador, but don't know how to start?
