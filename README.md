@@ -18,10 +18,10 @@
 - [In russian](https://docs.google.com/forms/d/e/1FAIpQLSdLh-DxuV2o2YDgDGww6Ohy2ww_ctZ7J3Zfy-wyO9U-51Jufw/viewform?vc=0&c=0&w=1&flr=0)
 
 2. Join Telegram group of the **Ambassadors School**, and write there that you have completed the application:
-- [In english](https://t.me/+_9JHyvuV5Ao4YTMy)
+- [In english](https://t.me/ambassadorsschooleng)
 - [In russian](https://t.me/+CJ-trUdtLQ5iNDli)
 
-3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) and its [**chat**](https://t.me/cryptomolotchat)
+3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) 
 
 
 4. After reviewing your application, you need to participate in The Firs Meet (online meet), to clearify all questions. <br />
