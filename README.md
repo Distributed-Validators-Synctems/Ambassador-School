@@ -59,6 +59,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 9. Extra: Discord management
 10. Extra: Community management
 11. Extra: Meme workshop
+12. Extra: Workshop - how to create Video
 
 
 [**Website**](https://ambassadors.school)
