@@ -8,22 +8,18 @@
 
 [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [CryptoMolot](https://t.me/molotcrypto) launch the **Ambassador School**, which will help you to get all the important knowledge to become an Ambassador of any project! <br />
 
-[**OUR WEBSITE**](https://ambassadors.school)
-
 ## Process for participation in the Ambassadors School
 
-1. Fill the application for participation in the **Ambassadors School**:
-- [In english](https://docs.google.com/forms/d/e/1FAIpQLSfWw93nFJyfyU21m-8mJanYpdi4rHZGv_g0u5_AFBFZIRIr0g/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
-- [In russian](https://docs.google.com/forms/d/e/1FAIpQLSdLh-DxuV2o2YDgDGww6Ohy2ww_ctZ7J3Zfy-wyO9U-51Jufw/viewform?vc=0&c=0&w=1&flr=0)
+1. Fill the application for participation in the **Ambassadors School** on [**OUR WEBSITE**](https://ambassadors.school)
 
 2. Join Telegram group of the **Ambassadors School**, and write there that you have completed the application:
 - [In english](https://t.me/ambassadorsschooleng)
-- [In russian](https://t.me/+CJ-trUdtLQ5iNDli)
+- [In russian](https://t.me/ambassadorsschool)
 
-3. Join telegram group [**CryptoMolot**](https://t.me/+B05NMa1u32llOWIy) 
+3. Join telegram group [**CryptoMolot**](https://t.me/molotcrypto) 
 
 
-4. After reviewing your application, you need to participate in The Firs Meet (online meet), to clearify all questions. <br />
+4. Watch the [**Youtube video**](https://youtu.be/qPSP6e_HynM)  <br />
 After the First Meet, if you are agree with the rules of educational proccess, your application will be approved. <br />
 
 ## If your application is approved
@@ -59,6 +55,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 10. Extra: Community management
 11. Extra: Meme workshop
 12. Extra: Workshop - how to create Video
+13. Extra: AI in crypto
 
 
 [**Website**](https://ambassadors.school)
