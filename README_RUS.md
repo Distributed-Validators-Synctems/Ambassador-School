@@ -1,5 +1,5 @@
 [English] | [Русский]() <br />
-https://ibb.co/gVLK6SY
+<a href="https://ibb.co/gVLK6SY"><img src="https://i.ibb.co/q53QxN6/AS-logo-full-on-light-2.png" alt="AS-logo-full-on-light-2" border="0"></a>
 # Школа Амбассадоров
 - Вы хотите стать Амбассадором, но не знаете, с чего начать?
 - Ищете наставника, который объяснит с чего начать?
