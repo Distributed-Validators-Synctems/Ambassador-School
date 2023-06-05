@@ -32,7 +32,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 ## How the education process works
 
 - The full course includes both: group and individual online lessons
-- Classes include online lectures, practical seminars and workshops, and watching educational videos (homework)
+- Classes include online lectures, practical seminars and workshops, and doing your homework (practice in crypto projects)
 - Learning takes place in stages: from simple to complex
 - After the complete completion of the first stage, there is a transition to the second stage, and then to the third
 - Transition to a more difficult stage is impossible without complete assimilation of the material from an easier stage
