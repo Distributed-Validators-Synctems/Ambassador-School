@@ -1,5 +1,5 @@
 # Ambassadors School
-<a href="https://ibb.co/gVLK6SY><img src="https://ibb.co/gVLK6SY" alt="AS-logo-03" border="0"></a>
+![Школа Амбассадоров](https://ibb.co/gVLK6SY)
 
 [English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
