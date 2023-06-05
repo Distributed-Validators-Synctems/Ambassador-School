@@ -1,6 +1,5 @@
 # Ambassadors School
-![Школа Амбассадоров](https://ibb.co/gVLK6SY)
-
+<a href="https://ibb.co/gVLK6SY"><img src="https://i.ibb.co/q53QxN6/AS-logo-full-on-light-2.png" alt="AS-logo-full-on-light-2" border="0"></a>
 [English] | [Русский](https://github.com/Distributed-Validators-Synctems/Ambassador-School/blob/master/README_RUS.md) <br />
 
 - Do you want to become an Ambassador, but don't know how to start?
